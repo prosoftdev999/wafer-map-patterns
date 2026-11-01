@@ -1,0 +1,18 @@
+date,tool,event,note
+2024-02-12,P09,PM,probe card cleaner pad replaced
+2024-04-03,P04,PM,quarterly PM; chuck planarity re-checked
+2024-05-20,P09,CARD_CHANGE,TALON-7 card TC-0117 replaced by TC-0131 after tip wear
+2024-07-08,P04,PM,quarterly PM
+2024-08-26,P04,ALIGNER,pre-aligner pad replaced after notch chipping on 3 lots (see YE-2024-117)
+2024-09-30,P09,ALIGNER,pre-aligner vacuum sensor replaced
+2024-11-18,P04,PM,quarterly PM
+2025-01-13,P09,PM,quarterly PM; z-height recalibrated
+2025-04-07,P04,PM,quarterly PM
+2025-05-05,P12,INSTALL,new prober installed in bay 3; qualification lots only
+2025-06-16,P12,RELEASE,released to production for ORCA-48 and TALON-7; map export added to YMS job
+2025-07-21,P09,CARD_CHANGE,ORCA-48 card OC-0088 replaced (scheduled)
+2025-08-11,P12,PM,first PM after release
+2025-09-08,P04,SW_UPDATE,cell controller software CC 4.8 -> CC 5.1 (same release as P12)
+2025-09-15,P09,SW_UPDATE,cell controller software CC 4.8 -> CC 5.1 (same release as P12)
+2025-10-06,P04,PM,quarterly PM
+2025-11-17,P12,ALIGNER,end-effector pads replaced
